@@ -3,7 +3,7 @@
 # Battleship ([UML Diagram](https://github.com/vpasq/Battleship/blob/master/UML_Battleship.pdf)) 
 
 
-Battleship is a Java Maven project for a Battleship game simulation that uses the following design patterns:
+Battleship is a Java Maven project for a game simulation that uses the following design patterns:
 - The Command Pattern
 - The Strategy Pattern 
 - The Factory Pattern
